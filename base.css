@@ -1,6 +1,8 @@
-html, body {
+html,
+body {
     margin: 0;
 }
+
 body {
     background-color: #f1f1f1;
     display: flex;
@@ -13,28 +15,72 @@ body {
     margin: 0 auto;
     background-color: aquamarine;
 }
+
 .main {
     display: flex;
     flex-flow: column;
     width: 85%;
 }
+
 .menu {
     width: 15%;
     background-color: aqua;
     padding: 10px 20px 0px;
 }
+
 .header {
     background-color: rgb(5, 108, 108);
     min-height: 150px;
 }
+
 .content {
     background-color: white;
     min-height: 300px;
     padding: 20px;
 }
+
 .footer {
     background-color: rgb(64, 6, 119);
     color: white;
     min-height: 150px;
     text-align: center;
 }
+
+<style>form {
+    width: 90%;
+    max-width: 500px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2c7be5;
+    color: white;
+    cursor: pointer;
+}
+
+button[type="reset"] {
+    background-color: #6c757d;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+</style>

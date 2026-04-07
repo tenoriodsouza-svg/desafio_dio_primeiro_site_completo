@@ -17,6 +17,10 @@ Consolidar os conhecimentos iniciais de HTML e compreender como estruturar uma a
 ## 🛠️ Tecnologias utilizadas
 - HTML5
 
+## 🖼️ Preview do Projeto
+
+![Preview do site](./assets/preview.png)  
+
 ## 📚 Aprendizados
 Esse projeto foi fundamental para reforçar minha base no desenvolvimento Front-End, permitindo transformar teoria em prática.
 

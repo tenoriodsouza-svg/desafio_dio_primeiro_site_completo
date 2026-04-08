@@ -24,6 +24,10 @@ Consolidar os conhecimentos iniciais de HTML e compreender como estruturar uma a
 ## 📚 Aprendizados
 Esse projeto foi fundamental para reforçar minha base no desenvolvimento Front-End, permitindo transformar teoria em prática.
 
+## 🌐 Acesse o projeto online
+
+[🔗 Visualizar site](https://tenoriodsouza-svg.github.io/desafio_dio_primeiro_site_completo/)
+
 ---
 
 📌 Projeto desenvolvido por Andrei Tenorio de Souza  
